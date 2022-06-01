@@ -269,7 +269,7 @@ namespace chests
 
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
-            mm = textBox1.Text;
+            mm = int.Parse(textBox1.Text);
         }
     }
 }
