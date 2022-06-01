@@ -29,7 +29,7 @@ namespace chests
         bool[,] Allowed_cells = new bool[8, 8] {
             {true, true, true, true, true, true, true, true },
             {true, true, true, true, true, true, true, true },
-            {true, true, true, false, true, true, true, true },
+            {true, true, true, true, true, true, true, true },
             {true, true, true, true, true, true, true, true },
             {true, true, true, true, true, true, true, true },
             {true, true, true, true, true, true, true, true },
@@ -271,6 +271,7 @@ namespace chests
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
             mm = int.Parse(textBox1.Text);
+            int a = 5;
         }
     }
 }
