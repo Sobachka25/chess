@@ -1,0 +1,10 @@
+C:\Users\akrug\OneDrive\Рабочий стол\курсач\chests\chests\bin\Debug\chests.exe.config
+C:\Users\akrug\OneDrive\Рабочий стол\курсач\chests\chests\bin\Debug\chests.exe
+C:\Users\akrug\OneDrive\Рабочий стол\курсач\chests\chests\bin\Debug\chests.pdb
+C:\Users\akrug\OneDrive\Рабочий стол\курсач\chests\chests\obj\Debug\chests.csproj.AssemblyReference.cache
+C:\Users\akrug\OneDrive\Рабочий стол\курсач\chests\chests\obj\Debug\chests.Form1.resources
+C:\Users\akrug\OneDrive\Рабочий стол\курсач\chests\chests\obj\Debug\chests.Properties.Resources.resources
+C:\Users\akrug\OneDrive\Рабочий стол\курсач\chests\chests\obj\Debug\chests.csproj.GenerateResource.cache
+C:\Users\akrug\OneDrive\Рабочий стол\курсач\chests\chests\obj\Debug\chests.csproj.CoreCompileInputs.cache
+C:\Users\akrug\OneDrive\Рабочий стол\курсач\chests\chests\obj\Debug\chests.exe
+C:\Users\akrug\OneDrive\Рабочий стол\курсач\chests\chests\obj\Debug\chests.pdb
