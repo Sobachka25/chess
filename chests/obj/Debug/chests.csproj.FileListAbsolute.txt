@@ -18,3 +18,14 @@ C:\Users\akrug\OneDrive\Рабочий стол\курсач\chess\chests\obj\De
 C:\Users\akrug\OneDrive\Рабочий стол\курсач\chess\chests\obj\Debug\chests.csproj.CoreCompileInputs.cache
 C:\Users\akrug\OneDrive\Рабочий стол\курсач\chess\chests\obj\Debug\chests.exe
 C:\Users\akrug\OneDrive\Рабочий стол\курсач\chess\chests\obj\Debug\chests.pdb
+C:\Users\akrug\Desktop\курсач\chess\chests\bin\Debug\chests.exe.config
+C:\Users\akrug\Desktop\курсач\chess\chests\bin\Debug\chests.exe
+C:\Users\akrug\Desktop\курсач\chess\chests\bin\Debug\chests.pdb
+C:\Users\akrug\Desktop\курсач\chess\chests\obj\Debug\chests.csproj.AssemblyReference.cache
+C:\Users\akrug\Desktop\курсач\chess\chests\obj\Debug\chests.csproj.SuggestedBindingRedirects.cache
+C:\Users\akrug\Desktop\курсач\chess\chests\obj\Debug\chests.Form1.resources
+C:\Users\akrug\Desktop\курсач\chess\chests\obj\Debug\chests.Properties.Resources.resources
+C:\Users\akrug\Desktop\курсач\chess\chests\obj\Debug\chests.csproj.GenerateResource.cache
+C:\Users\akrug\Desktop\курсач\chess\chests\obj\Debug\chests.csproj.CoreCompileInputs.cache
+C:\Users\akrug\Desktop\курсач\chess\chests\obj\Debug\chests.exe
+C:\Users\akrug\Desktop\курсач\chess\chests\obj\Debug\chests.pdb

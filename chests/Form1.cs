@@ -29,7 +29,7 @@ namespace chests
         bool[,] Allowed_cells = new bool[8, 8] {
             {true, true, true, true, true, true, true, true },
             {true, true, true, true, true, true, true, true },
-            {true, true, true, true, true, true, true, true },
+            {true, true, true, false, true, true, true, true },
             {true, true, true, true, true, true, true, true },
             {true, true, true, true, true, true, true, true },
             {true, true, true, true, true, true, true, true },
@@ -69,14 +69,15 @@ namespace chests
 
         private void button1_Click(object sender, EventArgs e)
         {
-            //if (is_allowed_move(1, 50, 100))
-            //{
-            //    Knight.Location = new Point(Knight.Location.X + 50, Knight.Location.Y + 100);
-            //    info.Text += "\n Конь сходил " + kx.ToString() + "; " + ky.ToString() + Environment.NewLine;;
-            //}
-            //else {
-            //    info.Text += "\n Ход конем " + kx.ToString() + "; " + ky.ToString() + " не возможен" + Environment.NewLine; ;
-            //}
+            if (is_allowed_move(1, 50, 100))
+            {
+                Knight.Location = new Point(Knight.Location.X + 50, Knight.Location.Y + 100);
+                info.Text += "\n Конь сходил " + kx.ToString() + "; " + ky.ToString() + Environment.NewLine; ;
+            }
+            else
+            {
+                info.Text += "\n Ход конем " + kx.ToString() + "; " + ky.ToString() + " не возможен" + Environment.NewLine; ;
+            }
 
 
         }

@@ -768,7 +768,7 @@ namespace chests
             this.comboBox1.FormattingEnabled = true;
             this.comboBox1.Items.AddRange(new object[] {
             "1. Случайные ходы"});
-            this.comboBox1.Location = new System.Drawing.Point(810, 100);
+            this.comboBox1.Location = new System.Drawing.Point(810, 75);
             this.comboBox1.Name = "comboBox1";
             this.comboBox1.Size = new System.Drawing.Size(297, 28);
             this.comboBox1.TabIndex = 65;
@@ -778,7 +778,7 @@ namespace chests
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label1.Location = new System.Drawing.Point(544, 100);
+            this.label1.Location = new System.Drawing.Point(544, 75);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(235, 20);
             this.label1.TabIndex = 66;
@@ -788,7 +788,7 @@ namespace chests
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label2.Location = new System.Drawing.Point(544, 175);
+            this.label2.Location = new System.Drawing.Point(544, 150);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(251, 20);
             this.label2.TabIndex = 68;
@@ -800,7 +800,7 @@ namespace chests
             this.comboBox2.FormattingEnabled = true;
             this.comboBox2.Items.AddRange(new object[] {
             "1. Случайные ходы"});
-            this.comboBox2.Location = new System.Drawing.Point(810, 175);
+            this.comboBox2.Location = new System.Drawing.Point(810, 150);
             this.comboBox2.Name = "comboBox2";
             this.comboBox2.Size = new System.Drawing.Size(297, 28);
             this.comboBox2.TabIndex = 67;
@@ -809,7 +809,7 @@ namespace chests
             // 
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label3.Location = new System.Drawing.Point(544, 250);
+            this.label3.Location = new System.Drawing.Point(544, 225);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(251, 20);
             this.label3.TabIndex = 69;
@@ -818,7 +818,7 @@ namespace chests
             // textBox1
             // 
             this.textBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.textBox1.Location = new System.Drawing.Point(810, 250);
+            this.textBox1.Location = new System.Drawing.Point(810, 225);
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(297, 26);
             this.textBox1.TabIndex = 70;
