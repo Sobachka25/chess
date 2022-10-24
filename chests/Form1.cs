@@ -1709,7 +1709,7 @@ namespace chests
         {
             Knight.Location = new Point(rnd.Next(1,8)*50+75, rnd.Next(1, 8) * 50 + 75);
             Queen.Location = new Point(rnd.Next(1, 8) * 50 + 75, rnd.Next(1, 8) * 50 + 75);
-            while ((Knight.Location == Queen.Location) || (!bet_li_kon_ferzya()))
+            while ((Knight.Location == Queen.Location) || (!bet_li_kon_ferzya()) || is_not_dark(Queen.Location.X,Queen.Location.Y))
             { 
             Queen.Location = new Point(rnd.Next(1, 8) * 50 + 75, rnd.Next(1, 8) * 50 + 75);
             }

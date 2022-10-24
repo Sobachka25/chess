@@ -296,9 +296,9 @@ namespace chests
             this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.label4.Location = new System.Drawing.Point(544, 325);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(234, 20);
+            this.label4.Size = new System.Drawing.Size(223, 20);
             this.label4.TabIndex = 75;
-            this.label4.Text = "введите колличество игр:";
+            this.label4.Text = "введите количество игр:";
             // 
             // progressBar1
             // 
