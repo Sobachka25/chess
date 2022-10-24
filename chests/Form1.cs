@@ -16,10 +16,10 @@ namespace chests
         private int[,] map = new int[8, 8];
         int start_x = 75;
         int finish_y = 475;
-        int kx = 0;
-        int ky = 0;
-        int qx = 0;
-        int qy = 0;
+        int kx = 75;
+        int ky = 75;
+        int qx = 275;
+        int qy = 375;
         int last_Quen_Cell = -1;
         int order = 1;
         int mm = 20;
@@ -1709,7 +1709,7 @@ namespace chests
         {
             Knight.Location = new Point(rnd.Next(1,8)*50+75, rnd.Next(1, 8) * 50 + 75);
             Queen.Location = new Point(rnd.Next(1, 8) * 50 + 75, rnd.Next(1, 8) * 50 + 75);
-            while ((Knight.Location == Queen.Location) || (!bet_li_kon_ferzya()) || is_not_dark(Queen.Location.X,Queen.Location.Y))
+            while ((Knight.Location == Queen.Location) || (!bet_li_kon_ferzya()) || !is_not_dark(Queen.Location.X,Queen.Location.Y))
             { 
             Queen.Location = new Point(rnd.Next(1, 8) * 50 + 75, rnd.Next(1, 8) * 50 + 75);
             }
